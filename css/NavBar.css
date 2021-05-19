@@ -1,0 +1,95 @@
+
+img{
+  border-radius: 15px;
+  width : 60px ;
+  height : 60px;
+  margin-left: 15px;
+}
+
+.btn {
+  color: #2e3031;
+    border-color: #adb9c5;;
+    border-top-color: rgba(78, 119, 100, 0.66);
+    border-right-color: rgba(78, 119, 100, 0.66);
+    border-bottom-color: rgba(78, 119, 100, 0.66);
+    border-left-color: rgba(78, 119, 100, 0.66);
+}
+.btn:hover{
+  background-color: pink;
+}
+
+a:hover{
+  background-color:pink;
+  color: white;
+}
+.bg-light {
+    background-color: #ca67a2db !important;
+}
+.navbar-light .navbar-nav .show > .nav-link,
+ .navbar-light .navbar-nav .nav-link.active {
+    color: hsl(0deg 0% 100%);
+    padding-left: 35px;
+    font-size: 25px;
+    text-decoration:inherit;
+    font-style: oblique;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: hsl(0deg 0% 100%);
+  padding-left: 35px;
+  font-size: 25px;
+  text-decoration:inherit;
+  font-style: oblique;
+
+}
+
+.me-2 {
+    margin-right: 20px !important;
+}
+.button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled) {
+    color: hsl(0deg 0% 100%);
+    font-style: italic;
+    border-color: white ;
+    margin-right: 120px ;
+}
+.nav-link{
+    color: #e6d4d4e3 ;
+    padding-right: 30px ;
+    font-style: oblique;
+    text-decoration:underline;
+
+}
+.w-100 {
+    width: 50% !important;
+}
+body{
+background-color: #213235;
+}
+.card-img-top{
+  width:80%;
+ height:220px;
+ margin-left: 10%;
+ margin-top: 5%;
+border-radius: 10px;
+
+}
+
+.card{
+  background-color: #ca67a2db;
+  border-radius: 10px;
+  margin-left: 13%;
+  height: 550px;
+  float: left;
+
+}
+
+.card-text {
+  font-size: 25px;
+  font-style: italic;
+  color: #f1e4e4;
+}
+span{
+  color: #213235;
+  font-family:serif;
+
+}
